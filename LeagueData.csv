@@ -1,0 +1,126 @@
+League,League Code,Region
+CAF Champions League,caf.champions,Africa
+CAF Confederation Cup,caf.confed,Africa
+Ghanaian Premier League,gha.1,Africa
+Kenyan Premier League,ken.1,Africa
+Nigerian Professional League,nga.1,Africa
+South African Premier Division,rsa.1,Africa
+South African First Division,rsa.2,Africa
+South African Nedbank Cup,rsa.nedbank,Africa
+South African Telkom Knockout Cup,rsa.telkom_knockout,Africa
+Ugandan Premier League,uga.1,Africa
+Zambian Super League,zam.1,Africa
+Zimbabwean Premier Soccer League,zim.1,Africa
+AFC Champions League,afc.champions,Asia
+AFC Cup,afc.cup,Asia
+Australian A-League Men,aus.1,Asia
+Australian A-League Women,aus.w.1,Asia
+Chinese Super League,chn.1,Asia
+Indonesian Liga 1,idn.1,Asia
+Indian Super League,ind.1,Asia
+Indian I-League,ind.2,Asia
+Japanese J.League,jpn.1,Asia
+Saudi Pro League,ksa.1,Asia
+Malaysian Super League,mys.1,Asia
+Singaporean Premier League,sgp.1,Asia
+Thai League 1,tha.1,Asia
+Austrian Bundesliga,aut.1,Europe
+Belgian Pro League,bel.1,Europe
+Danish Superliga,den.1,Europe
+Spanish LALIGA,esp.1,Europe
+Spanish LALIGA 2,esp.2,Europe
+Spanish Copa del Rey,esp.copa_del_rey,Europe
+French Ligue 1,fra.1,Europe
+French Ligue 2,fra.2,Europe
+Coupe de France,fra.coupe_de_france,Europe
+German Bundesliga,ger.1,Europe
+German 2. Bundesliga,ger.2,Europe
+German DFB Pokal,ger.dfb_pokal,Europe
+Greek Super League,gre.1,Europe
+Israeli Premier League,isr.1,Europe
+Italian Serie A,ita.1,Europe
+Italian Serie B,ita.2,Europe
+Coppa Italia,ita.coppa_italia,Europe
+Maltese Premier League,mlt.1,Europe
+Dutch Eredivisie,ned.1,Europe
+Dutch Keuken Kampioen Divisie,ned.2,Europe
+Dutch KNVB Beker,ned.cup,Europe
+Norwegian Eliteserien,nor.1,Europe
+Portuguese Primeira Liga,por.1,Europe
+Romanian Liga 1,rou.1,Europe
+Russian Premier League,rus.1,Europe
+Swiss Super League,sui.1,Europe
+Swedish Allsvenskan,swe.1,Europe
+Turkish Super Lig,tur.1,Europe
+UEFA Champions League,uefa.champions,Europe
+UEFA Champions League Qualifying,uefa.champions_qual,Europe
+UEFA Europa League,uefa.europa,Europe
+UEFA Europa Conference League,uefa.europa.conf,Europe
+UEFA Europa Conference League Qualifying,uefa.europa.conf_qual,Europe
+UEFA Europa League Qualifying,uefa.europa_qual,Europe
+UEFA Women's Champions League,uefa.wchampions,Europe
+Argentine Liga Profesional de Fútbol,arg.1,South America
+Argentine Nacional B,arg.2,South America
+Argentine Primera B,arg.3,South America
+Argentine Primera C,arg.4,South America
+Argentine Primera D,arg.5,South America
+Copa Argentina,arg.copa,South America
+Argentine Copa de la Liga Profesional,arg.copa_lpf,South America
+Bolivian Liga Profesional,bol.1,South America
+Brazilian Serie A,bra.1,South America
+Brazilian Serie B,bra.2,South America
+Brazilian Serie C,bra.3,South America
+Brazilian Campeonato Carioca,bra.camp.carioca,South America
+Brazilian Campeonato Gaucho,bra.camp.gaucho,South America
+Brazilian Campeonato Mineiro,bra.camp.mineiro,South America
+Brazilian Campeonato Paulista,bra.camp.paulista,South America
+Copa do Brasil,bra.copa_do_brazil,South America
+Chilean Primera División,chi.1,South America
+Copa Chile,chi.copa_chi,South America
+Colombian Primera A,col.1,South America
+Colombian Primera B,col.2,South America
+Copa Colombia,col.copa,South America
+CONMEBOL Libertadores,conmebol.libertadores,South America
+CONMEBOL Sudamericana,conmebol.sudamericana,South America
+LigaPro Ecuador,ecu.1,South America
+Paraguayan Primera División,par.1,South America
+Peruvian Liga 1,per.1,South America
+Uruguayan Primera Division,uru.1,South America
+Venezuelan Primera División,ven.1,South America
+English Premier League,eng.1,UK & Ireland
+English League Championship,eng.2,UK & Ireland
+English League One,eng.3,UK & Ireland
+English League Two,eng.4,UK & Ireland
+English National League,eng.5,UK & Ireland
+English FA Cup,eng.fa,UK & Ireland
+English Carabao Cup,eng.league_cup,UK & Ireland
+English EFL Trophy,eng.trophy,UK & Ireland
+English Women's Super League,eng.w.1,UK & Ireland
+English Women's FA Cup,eng.w.fa,UK & Ireland
+Irish Premier Division,irl.1,UK & Ireland
+Northern Irish Premiership,nir.1,UK & Ireland
+Scottish Premiership,sco.1,UK & Ireland
+Scottish Championship,sco.2,UK & Ireland
+Scottish League One,sco.3,UK & Ireland
+Scottish League Two,sco.4,UK & Ireland
+Scottish League Challenge Cup,sco.challenge,UK & Ireland
+Scottish League Cup,sco.cis,UK & Ireland
+Scottish Cup,sco.tennents,UK & Ireland
+Welsh Premier League,wal.1,UK & Ireland
+Concacaf Champions Cup,concacaf.champions,"USA, Mexico & CONCACAF"
+Concacaf League,concacaf.league,"USA, Mexico & CONCACAF"
+Leagues Cup,concacaf.leagues.cup,"USA, Mexico & CONCACAF"
+Costa Rican Primera Division,crc.1,"USA, Mexico & CONCACAF"
+Guatemalan Liga Nacional,gua.1,"USA, Mexico & CONCACAF"
+Honduran Liga Nacional,hon.1,"USA, Mexico & CONCACAF"
+Mexican Liga BBVA MX,mex.1,"USA, Mexico & CONCACAF"
+Mexican Liga de Expansión MX,mex.2,"USA, Mexico & CONCACAF"
+Mexican Copa MX,mex.copa_mx,"USA, Mexico & CONCACAF"
+Salvadoran Primera Division,slv.1,"USA, Mexico & CONCACAF"
+MLS,usa.1,"USA, Mexico & CONCACAF"
+NCAA Men's Soccer,usa.ncaa.m.1,"USA, Mexico & CONCACAF"
+NCAA Women's Soccer,usa.ncaa.w.1,"USA, Mexico & CONCACAF"
+NWSL,usa.nwsl,"USA, Mexico & CONCACAF"
+U.S. Open Cup,usa.open,"USA, Mexico & CONCACAF"
+USL Championship,usa.usl.1,"USA, Mexico & CONCACAF"
+USL League One,usa.usl.l1,"USA, Mexico & CONCACAF"
