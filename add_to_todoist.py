@@ -1,8 +1,16 @@
 from todoist_api_python.api import TodoistAPI
 from get_fixtures import get_list_of_fixtures
 import pandas as pd
+from dotenv import load_dotenv
 
-api = TodoistAPI("f7c2afd2b24f7f01ebf72b6cb269d980cb01c3da")
+# Load environment variables from .env file
+load_dotenv()
+
+# Get Todoist API key from environment variable
+TODOIST_API_KEY = os.getenv("TODOIST_API_KEY")
+
+# Initialize Todoist API
+api = TodoistAPI(TODOIST_API_KEY)
 
 fixtures = league_data_df = pd.DataFrame(get_list_of_fixtures(364, 'liverpool'), 
                                          columns=['fixture date', 'home team', 'away team', 'fixture time'])
