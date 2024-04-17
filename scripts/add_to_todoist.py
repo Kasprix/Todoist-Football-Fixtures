@@ -1,3 +1,4 @@
+import os
 from todoist_api_python.api import TodoistAPI
 from get_fixtures import get_list_of_fixtures
 import pandas as pd
