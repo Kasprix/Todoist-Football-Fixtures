@@ -5,7 +5,6 @@ from tqdm import tqdm
 from urllib.parse import urlparse
 import time, random
 
-
 def get_list_of_leagues():
     url = f"https://www.espn.co.uk/football/competitions"
     response = Request(url , headers={'User-Agent': 'Mozilla/5.0'})
@@ -51,11 +50,9 @@ def get_list_of_leagues():
     # # Drop the original 'League Info' column
     # league_data_df = league_data_df.drop(columns=['League Info'])
 
-    league_data_df.to_csv(r'C:\Users\tyler\Documents\Python Scripts\Scrape football for todoist\LeagueData.csv', index=False)
+    league_data_df.to_csv(r'data\LeagueData.csv', index=False)
 
     return league_data_df
-
-# get_list_of_leagues()
 
 def get_teams_from_league(leagues = 'ENG.1') :
     teams_dic = {}
@@ -104,7 +101,6 @@ def get_teams_from_league(leagues = 'ENG.1') :
 
     # Convert the dictionary to a DataFrame
     team_data_df = pd.DataFrame(league_data, columns=['Team Name', 'Team ID', 'Team Name Link', 'League Code']).sort_values(by=['League Code', 'Team Name'])
-    team_data_df.to_csv(r'C:\Users\tyler\Documents\Python Scripts\Scrape football for todoist\TeamDataListAttempt.csv', index=False)
 
     return team_data_df
 
@@ -115,21 +111,47 @@ def export_all_to_CSV() :
 
     merged_df = pd.merge(teams, leagues, on='League Code', how='inner')
 
-    merged_df.to_csv(r'C:\Users\tyler\Documents\Python Scripts\Scrape football for todoist\TeamData.csv', index=False)
+    merged_df.to_csv(r'data\LeagueAndTeamData.csv', index=False)
 
     merged_df.info()
 
-# export_all_to_CSV()
 
 #TODO: Create a search function for each team that takes the normal name and gets the team ID and the team name link
-def get_list_of_fixtures(team_id, team_name_link):
-    url = f"https://www.espn.co.uk/football/team/fixtures/_/id/{team_id}/{team_name_link}"
+def get_list_of_fixtures():
 
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    response = Request(url , headers)
+    team_table = pd.read_csv(r'data\LeagueAndTeamData.csv')
+    
+    # Function to get an integer input from the user
+    def get_integer_input(prompt):
+        while True:
+            try:
+                value = int(input(prompt))
+                return value
+            except ValueError:
+                print("Please enter a valid integer.")
 
-    webpage = urlopen(response).read()
-    soup = BeautifulSoup(webpage, "html.parser")
-    # Find all team links
-    team_links = soup.find_all('a', class_='AnchorLink', href=lambda x: x and '/football/team/fixtures/_/id/' in x)
+    
+    # Function to confirm the input
+    def confirm_input(value):
+        confirmation = input(f"Confirm input: {value} (yes/no)? ").lower()
+        return confirmation == "yes"
+    
+    
+    # Prompt user for integer input
+    while True:
+        team_ID = get_integer_input("Enter the ID you want to search for: ")
+        
+        try:
+            team_name_link =  team_table.loc[team_table['Team ID'] == team_ID, 'Team Name Link'].iloc[0]
+            print(f"The team name of {team_ID} is {team_name_link}.")
+        except IndexError:
+            print("ID not found in table.")
+            continue
+        
+        
+        if confirm_input(team_ID):
+            break
+        else:
+            print("Redoing the search...")
 
+get_list_of_fixtures()

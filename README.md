@@ -32,14 +32,15 @@ This Python project automates the process of adding upcoming football fixtures t
 ## Usage
 
 1. Ensure you have Python installed on your system.
-2. Set up a Todoist API key and replace `"YOUR_API_KEY"` in `add_to_todoist.py` with your actual API key.
-3. Run the `add_to_todoist.py` script to add upcoming fixtures to your Todoist task list:
+2. Look through all the teams in data/LeagueAndTeamData.csv and find your specific team and their unique ID
+3. Set up a Todoist API key and replace `"YOUR_API_KEY"` in `add_to_todoist.py` with your actual API key.
+4. After finding your Team ID run the `main.py` script to add upcoming fixtures to your Todoist task list:
 
     ```bash
-    python add_to_todoist.py
+    python main.py
     ```
 
-4. The script will automatically add upcoming fixtures to your Todoist task list.
+5. The script will automatically add upcoming fixtures to your Todoist task list.
 
 ## Notes
 

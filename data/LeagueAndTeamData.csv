@@ -399,24 +399,24 @@ Ponte Preta,3459,ponte-preta,bra.2,Brazilian Serie B,South America
 Santos,2674,santos,bra.2,Brazilian Serie B,South America
 Sport,7635,sport,bra.2,Brazilian Serie B,South America
 Vila Nova-GO,9973,vila-nova-go,bra.2,Brazilian Serie B,South America
-Altos,18433,altos,bra.3,Brazilian Serie C,South America
-Amazonas,21888,amazonas,bra.3,Brazilian Serie C,South America
-América-RN,7634,america-rn,bra.3,Brazilian Serie C,South America
+ABC,9965,abc,bra.3,Brazilian Serie C,South America
 Aparecidense,18188,aparecidense,bra.3,Brazilian Serie C,South America
+Athletic Club (Minas Gerais),20851,athletic-club-minas-gerais,bra.3,Brazilian Serie C,South America
 Botafogo PB,17317,botafogo-pb,bra.3,Brazilian Serie C,South America
-Brusque,18428,brusque,bra.3,Brazilian Serie C,South America
 CSA,7531,csa,bra.3,Brazilian Serie C,South America
+Caxias do Sul,17131,caxias-do-sul,bra.3,Brazilian Serie C,South America
 Confiança,4875,confianca,bra.3,Brazilian Serie C,South America
+Ferroviária,18126,ferroviaria,bra.3,Brazilian Serie C,South America
+Ferroviário,21901,ferroviario,bra.3,Brazilian Serie C,South America
 Figueirense,3461,figueirense,bra.3,Brazilian Serie C,South America
 Floresta,18958,floresta,bra.3,Brazilian Serie C,South America
-Manaus,18959,manaus,bra.3,Brazilian Serie C,South America
+Londrina,17333,londrina,bra.3,Brazilian Serie C,South America
 Náutico,7633,nautico,bra.3,Brazilian Serie C,South America
-Operario PR,18187,operario-pr,bra.3,Brazilian Serie C,South America
-Paysandu,15424,paysandu,bra.3,Brazilian Serie C,South America
-Pouso Alegre,20852,pouso-alegre,bra.3,Brazilian Serie C,South America
 Remo,4936,remo,bra.3,Brazilian Serie C,South America
+Sampaio Corrêa,4873,sampaio-correa,bra.3,Brazilian Serie C,South America
 São Bernardo,11268,sao-bernardo,bra.3,Brazilian Serie C,South America
 São José-RS,7389,sao-jose-rs,bra.3,Brazilian Serie C,South America
+Tombense,17339,tombense,bra.3,Brazilian Serie C,South America
 Volta Redonda,4806,volta-redonda,bra.3,Brazilian Serie C,South America
 Ypiranga,4935,ypiranga,bra.3,Brazilian Serie C,South America
 Audax Rio,15502,audax-rio,bra.camp.carioca,Brazilian Campeonato Carioca,South America
@@ -710,7 +710,7 @@ La Equidad,7445,la-equidad,col.1,Colombian Primera A,South America
 Millonarios,5484,millonarios,col.1,Colombian Primera A,South America
 Once Caldas,2919,once-caldas,col.1,Colombian Primera A,South America
 Patriotas,9773,patriotas,col.1,Colombian Primera A,South America
-Rionegro Águilas,9762,rionegro-aguilas,col.1,Colombian Primera A,South America
+Águilas Doradas,9762,aguilas-doradas,col.1,Colombian Primera A,South America
 Atlético FC,17370,atletico-fc,col.2,Colombian Primera B,South America
 Atlético Huila,5482,atletico-huila,col.2,Colombian Primera B,South America
 Barranquilla FC,17373,barranquilla-fc,col.2,Colombian Primera B,South America
@@ -733,12 +733,20 @@ Barranquilla FC,17373,barranquilla-fc,col.copa,Copa Colombia,South America
 Boca Juniors de Cali,17372,boca-juniors-de-cali,col.copa,Copa Colombia,South America
 Bogotá FC,17371,bogota-fc,col.copa,Copa Colombia,South America
 Bucaramanga,6137,bucaramanga,col.copa,Copa Colombia,South America
+Cúcuta Deportivo,6101,cucuta-deportivo,col.copa,Copa Colombia,South America
+Deportes Quindío,5487,deportes-quindio,col.copa,Copa Colombia,South America
 Deportivo Pereira,5486,deportivo-pereira,col.copa,Copa Colombia,South America
 Envigado,5481,envigado,col.copa,Copa Colombia,South America
+Fortaleza CEIF,4928,fortaleza-ceif,col.copa,Copa Colombia,South America
 Independiente Santa Fe,5488,independiente-santa-fe,col.copa,Copa Colombia,South America
+Internacional FC de Palmira,22184,internacional-fc-de-palmira,col.copa,Copa Colombia,South America
 Jaguares de Córdoba,10309,jaguares-de-cordoba,col.copa,Copa Colombia,South America
+Leones,9769,leones,col.copa,Copa Colombia,South America
+Llaneros,7915,llaneros,col.copa,Copa Colombia,South America
 Once Caldas,2919,once-caldas,col.copa,Copa Colombia,South America
 Orsomarso SC,18156,orsomarso-sc,col.copa,Copa Colombia,South America
+Patriotas,9773,patriotas,col.copa,Copa Colombia,South America
+Real Cartagena,5479,real-cartagena,col.copa,Copa Colombia,South America
 Real Santander,9774,real-santander,col.copa,Copa Colombia,South America
 Real Soacha Cundinamarca,21967,real-soacha-cundinamarca,col.copa,Copa Colombia,South America
 Tigres,9770,tigres,col.copa,Copa Colombia,South America
@@ -784,7 +792,6 @@ Sporting San Miguelito,21522,sporting-san-miguelito,concacaf.league,Concacaf Lea
 Vega Real,21523,vega-real,concacaf.league,Concacaf League,"USA, Mexico & CONCACAF"
 Verdes FC,9943,verdes-fc,concacaf.league,Concacaf League,"USA, Mexico & CONCACAF"
 Waterhouse,8670,waterhouse,concacaf.league,Concacaf League,"USA, Mexico & CONCACAF"
-América,227,america,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Atlanta United FC,18418,atlanta-united-fc,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Atlas,216,atlas,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Atlético de San Luis,15720,atletico-de-san-luis,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
@@ -793,7 +800,6 @@ CF Montréal,9720,cf-montreal,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CO
 Charlotte FC,21300,charlotte-fc,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Chicago Fire FC,182,chicago-fire-fc,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Colorado Rapids,184,colorado-rapids,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
-Columbus Crew,183,columbus-crew,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Cruz Azul,218,cruz-azul,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 D.C. United,193,dc-united,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 FC Cincinnati,18267,fc-cincinnati,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
@@ -832,21 +838,81 @@ Toluca,223,toluca,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Toronto FC,7318,toronto-fc,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Vancouver Whitecaps,9727,vancouver-whitecaps,concacaf.leagues.cup,Leagues Cup,"USA, Mexico & CONCACAF"
 Academia Puerto Cabello,18995,academia-puerto-cabello,conmebol.libertadores,CONMEBOL Libertadores,South America
+Alianza Lima,2680,alianza-lima,conmebol.libertadores,CONMEBOL Libertadores,South America
 Always Ready,19425,always-ready,conmebol.libertadores,CONMEBOL Libertadores,South America
+Atlético Junior,4815,atletico-junior,conmebol.libertadores,CONMEBOL Libertadores,South America
 Atlético Nacional,5264,atletico-nacional,conmebol.libertadores,CONMEBOL Libertadores,South America
+Atlético-MG,7632,atletico-mg,conmebol.libertadores,CONMEBOL Libertadores,South America
 Aurora,6046,aurora,conmebol.libertadores,CONMEBOL Libertadores,South America
+Barcelona SC,2686,barcelona-sc,conmebol.libertadores,CONMEBOL Libertadores,South America
+Bolívar,2681,bolivar,conmebol.libertadores,CONMEBOL Libertadores,South America
 Botafogo,6086,botafogo,conmebol.libertadores,CONMEBOL Libertadores,South America
+Caracas FC,4811,caracas-fc,conmebol.libertadores,CONMEBOL Libertadores,South America
+Cerro Porteño,2671,cerro-porteno,conmebol.libertadores,CONMEBOL Libertadores,South America
+Cobresal,4133,cobresal,conmebol.libertadores,CONMEBOL Libertadores,South America
 Colo Colo,2688,colo-colo,conmebol.libertadores,CONMEBOL Libertadores,South America
+Deportivo Táchira,4818,deportivo-tachira,conmebol.libertadores,CONMEBOL Libertadores,South America
 El Nacional,882,el-nacional,conmebol.libertadores,CONMEBOL Libertadores,South America
+Estudiantes de La Plata,8,estudiantes-de-la-plata,conmebol.libertadores,CONMEBOL Libertadores,South America
+Flamengo,819,flamengo,conmebol.libertadores,CONMEBOL Libertadores,South America
+Fluminense,3445,fluminense,conmebol.libertadores,CONMEBOL Libertadores,South America
 Godoy Cruz Antonio Tomba,6756,godoy-cruz-antonio-tomba,conmebol.libertadores,CONMEBOL Libertadores,South America
+Grêmio,6273,gremio,conmebol.libertadores,CONMEBOL Libertadores,South America
+Huachipato,4134,huachipato,conmebol.libertadores,CONMEBOL Libertadores,South America
+Independiente del Valle,17086,independiente-del-valle,conmebol.libertadores,CONMEBOL Libertadores,South America
+Libertad,2670,libertad,conmebol.libertadores,CONMEBOL Libertadores,South America
+Liga de Quito,4816,liga-de-quito,conmebol.libertadores,CONMEBOL Libertadores,South America
+Liverpool,5492,liverpool,conmebol.libertadores,CONMEBOL Libertadores,South America
+Millonarios,5484,millonarios,conmebol.libertadores,CONMEBOL Libertadores,South America
 Nacional,2684,nacional,conmebol.libertadores,CONMEBOL Libertadores,South America
 Nacional,5584,nacional,conmebol.libertadores,CONMEBOL Libertadores,South America
 Palestino,4422,palestino,conmebol.libertadores,CONMEBOL Libertadores,South America
+Palmeiras,2029,palmeiras,conmebol.libertadores,CONMEBOL Libertadores,South America
+Peñarol,2683,penarol,conmebol.libertadores,CONMEBOL Libertadores,South America
 Portuguesa,6762,portuguesa,conmebol.libertadores,CONMEBOL Libertadores,South America
 Red Bull Bragantino,6079,red-bull-bragantino,conmebol.libertadores,CONMEBOL Libertadores,South America
-Rionegro Águilas,9762,rionegro-aguilas,conmebol.libertadores,CONMEBOL Libertadores,South America
+River Plate,16,river-plate,conmebol.libertadores,CONMEBOL Libertadores,South America
+Rosario Central,17,rosario-central,conmebol.libertadores,CONMEBOL Libertadores,South America
+San Lorenzo,18,san-lorenzo,conmebol.libertadores,CONMEBOL Libertadores,South America
 Sporting Cristal,2673,sporting-cristal,conmebol.libertadores,CONMEBOL Libertadores,South America
+São Paulo,2026,sao-paulo,conmebol.libertadores,CONMEBOL Libertadores,South America
+Talleres (Córdoba),19,talleres-cordoba,conmebol.libertadores,CONMEBOL Libertadores,South America
+The Strongest,2687,the-strongest,conmebol.libertadores,CONMEBOL Libertadores,South America
 Trinidense,7466,trinidense,conmebol.libertadores,CONMEBOL Libertadores,South America
+Universitario,2685,universitario,conmebol.libertadores,CONMEBOL Libertadores,South America
+Águilas Doradas,9762,aguilas-doradas,conmebol.libertadores,CONMEBOL Libertadores,South America
+Alianza FC,9761,alianza-fc,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Always Ready,19425,always-ready,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Argentinos Juniors,3,argentinos-juniors,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Athletico-PR,3458,athletico-pr,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Belgrano (Córdoba),4,belgrano-cordoba,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Boca Juniors,5,boca-juniors,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Coquimbo Unido,8186,coquimbo-unido,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Corinthians,874,corinthians,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Cruzeiro,2022,cruzeiro,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Cuiabá,17313,cuiaba,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+César Vallejo,5567,cesar-vallejo,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Danubio,4817,danubio,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Defensa y Justicia,8950,defensa-y-justicia,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Delfín,1011,delfin,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Deportivo Garcilaso,21819,deportivo-garcilaso,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Deportivo Rayo Zuliano,21850,deportivo-rayo-zuliano,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Fortaleza,6272,fortaleza,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Independiente Medellín,2690,independiente-medellin,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Internacional,1936,internacional,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Lanús,12,lanus,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Metropolitanos FC,13481,metropolitanos-fc,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Nacional,5584,nacional,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Nacional Potosí,10311,nacional-potosi,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Racing,9903,racing,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Racing Club,15,racing-club,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Real Tomayapo,20890,real-tomayapo,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Red Bull Bragantino,6079,red-bull-bragantino,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Sportivo Ameliano,21313,sportivo-ameliano,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Sportivo Luqueño,5583,sportivo-luqueno,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Trinidense,7466,trinidense,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Universidad Católica (Quito),9283,universidad-catolica-quito,conmebol.sudamericana,CONMEBOL Sudamericana,South America
+Unión La Calera,10144,union-la-calera,conmebol.sudamericana,CONMEBOL Sudamericana,South America
 AD Guanacasteca,20982,ad-guanacasteca,crc.1,Costa Rican Primera Division,"USA, Mexico & CONCACAF"
 Alajuelense,2057,alajuelense,crc.1,Costa Rican Primera Division,"USA, Mexico & CONCACAF"
 Cartagines,7239,cartagines,crc.1,Costa Rican Primera Division,"USA, Mexico & CONCACAF"
@@ -2142,7 +2208,6 @@ Sliema Wanderers,543,sliema-wanderers,mlt.1,Maltese Premier League,Europe
 Valletta,2698,valletta,mlt.1,Maltese Premier League,Europe
 Johor Darul Ta'zim,17689,johor-darul-tazim,mys.1,Malaysian Super League,Asia
 Kedah,8835,kedah,mys.1,Malaysian Super League,Asia
-Kelantan,17742,kelantan,mys.1,Malaysian Super League,Asia
 Kelantan United,21845,kelantan-united,mys.1,Malaysian Super League,Asia
 Kuala Lumpur,18983,kuala-lumpur,mys.1,Malaysian Super League,Asia
 Kuching,21844,kuching,mys.1,Malaysian Super League,Asia
@@ -3241,7 +3306,7 @@ Portland Thorns FC,15362,portland-thorns-fc,usa.nwsl,NWSL,"USA, Mexico & CONCACA
 Racing Louisville FC,20905,racing-louisville-fc,usa.nwsl,NWSL,"USA, Mexico & CONCACAF"
 San Diego Wave FC,21423,san-diego-wave-fc,usa.nwsl,NWSL,"USA, Mexico & CONCACAF"
 Seattle Reign FC,15363,seattle-reign-fc,usa.nwsl,NWSL,"USA, Mexico & CONCACAF"
-Utah Royals FC,19141,utah-royals-fc,usa.nwsl,NWSL,"USA, Mexico & CONCACAF"
+Utah Royals,19141,utah-royals,usa.nwsl,NWSL,"USA, Mexico & CONCACAF"
 Washington Spirit,15365,washington-spirit,usa.nwsl,NWSL,"USA, Mexico & CONCACAF"
 AS Frenzi,22216,as-frenzi,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Apotheos FC,22220,apotheos-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
@@ -3250,6 +3315,7 @@ Asheville City SC,22219,asheville-city-sc,usa.open,U.S. Open Cup,"USA, Mexico & 
 Austin FC II,22214,austin-fc-ii,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Azteca FC,18691,azteca-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Ballard FC,22225,ballard-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Birmingham Legion FC,19405,birmingham-legion-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Brave SC,18271,brave-sc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Brockton FC United,21418,brockton-fc-united,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Capo FC,21862,capo-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
@@ -3266,34 +3332,48 @@ Club de Lyon,21853,club-de-lyon,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Colorado Rapids 2,22229,colorado-rapids-2,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Crown Legacy FC,22234,crown-legacy-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Des Moines Menace,18264,des-moines-menace,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Detroit City FC,19179,detroit-city-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Duluth FC,19172,duluth-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 El Farolito,18716,el-farolito,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+El Paso Locomotive FC,19407,el-paso-locomotive-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 FC America CFL Spurs,22213,fc-america-cfl-spurs,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 FC Folsom,22224,fc-folsom,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 FC Motown,18699,fc-motown,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+FC Tulsa,18446,fc-tulsa,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Foro SC,22215,foro-sc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Forward Madison FC,19995,forward-madison-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Georgia Lions FC,22221,georgia-lions-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Greenville Triumph,19964,greenville-triumph,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Hartford Athletic,19411,hartford-athletic,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Hudson Valley Hammers,22222,hudson-valley-hammers,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Indy Eleven,17360,indy-eleven,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Irvine Zeta FC,22230,irvine-zeta-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Irvine Zeta FC 2,22236,irvine-zeta-fc-2,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 LA Force,20689,la-force,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
-LA Galaxy II,18449,la-galaxy-ii,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Las Vegas Lights FC,18987,las-vegas-lights-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Lexington,21822,lexington,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Loudoun United FC,19410,loudoun-united-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Louisville City FC,17832,louisville-city-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Lubbock Matadors,22227,lubbock-matadors,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Maryland Bobcats FC,21448,maryland-bobcats-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Memphis 901 FC,19409,memphis-901-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 MesoAmerica FC,22231,mesoamerica-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Miami FC,18159,miami-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Miami United FC,18704,miami-united-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Michigan Stars,20688,michigan-stars,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Minnesota United FC 2,22223,minnesota-united-fc-2,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Monterey Bay,21370,monterey-bay,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+New Mexico United,19408,new-mexico-united,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 New York City FC II,22237,new-york-city-fc-ii,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 New York Red Bulls II,18450,new-york-red-bulls-ii,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+North Carolina FC,9725,north-carolina-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Northern Colorado Hailstorm FC,21354,northern-colorado-hailstorm-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Northern Virginia FC,21416,northern-virginia-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Oakland Roots,20687,oakland-roots,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 One Knoxville,21821,one-knoxville,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
-Portland Timbers 2,18451,portland-timbers-2,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Portland Timbers2,18451,portland-timbers2,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Redlands FC,22232,redlands-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Rhode Island FC,22164,rhode-island-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Richmond Kickers,17545,richmond-kickers,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 SC United Bantams,18720,sc-united-bantams,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Savannah Clovers,21869,savannah-clovers,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
@@ -3303,6 +3383,7 @@ Spokane Velocity FC,22130,spokane-velocity-fc,usa.open,U.S. Open Cup,"USA, Mexic
 Steel City FC,22233,steel-city-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Tulsa Athletic,18688,tulsa-athletic,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Union Omaha,20684,union-omaha,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
+Ventura County FC,18449,ventura-county-fc,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Vereinigung Erzgebirge,20678,vereinigung-erzgebirge,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 Vermont Green,22212,vermont-green,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
 West Chester,19999,west-chester,usa.open,U.S. Open Cup,"USA, Mexico & CONCACAF"
@@ -3387,6 +3468,7 @@ Trident FC,21974,trident-fc,zam.1,Zambian Super League,Africa
 Zanaco,8061,zanaco,zam.1,Zambian Super League,Africa
 Zesco United,8063,zesco-united,zam.1,Zambian Super League,Africa
 Arenel Movers,22208,arenel-movers,zim.1,Zimbabwean Premier Soccer League,Africa
+Bikita Minerals,22238,bikita-minerals,zim.1,Zimbabwean Premier Soccer League,Africa
 Bulawayo Chiefs,19147,bulawayo-chiefs,zim.1,Zimbabwean Premier Soccer League,Africa
 CAPS United,8266,caps-united,zim.1,Zimbabwean Premier Soccer League,Africa
 Chegutu Pirates,22209,chegutu-pirates,zim.1,Zimbabwean Premier Soccer League,Africa
