@@ -1,4 +1,4 @@
-from utils import get_list_of_leagues
+import utils
 
 print(get_list_of_leagues())
 
