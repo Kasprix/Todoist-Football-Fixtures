@@ -1,8 +1,11 @@
-import pandas as pd
+from utils import get_list_of_leagues
 
-Leagues = pd.read_csv('LeagueData.csv')
+print(get_list_of_leagues())
 
-Teams = pd.read_csv('TeamDataListAttempt.csv')
+
+# Leagues = pd.read_csv('LeagueData.csv')
+
+# Teams = pd.read_csv('TeamDataListAttempt.csv')
 
 # print(Leagues.sort_values(by=['Region', 'League Code'])[Leagues['Region'].str.contains('UK')])
 # missing_leagues = set(Leagues['League Code'].unique()) - set(Teams['League'].unique())

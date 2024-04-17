@@ -4,7 +4,6 @@ from urllib.request import Request, urlopen
 import re
 
 
-
 url = "https://www.espn.co.uk/football/teams/_/league/ENG.1"
 response = Request(url , headers={'User-Agent': 'Mozilla/5.0'})
 
@@ -15,9 +14,10 @@ soup = BeautifulSoup(webpage, "html.parser")
 team_links = soup.find_all('a', class_='AnchorLink', href=lambda x: x and '/football/team/fixtures/_/id/' in x)
 
 teams_dic = {}
+
 for team_link in team_links:
     team_id = team_link['href'].split('/football/team/fixtures/_/id/')[1].split('/')[0]
-   # print(team_id)
+    # print(team_id)
     team_name_link = team_link['href'].split('/football/team/fixtures/_/id/')[1].split('/')[1]
     #print(team_name_link)
     team_name_user = team_link.find_previous('h2').text
