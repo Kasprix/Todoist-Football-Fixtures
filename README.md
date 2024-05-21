@@ -14,7 +14,7 @@ This Python project automates the process of adding upcoming football fixtures t
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/football-fixtures-to-todoist.git
+    git clone https://github.com/kasprix/football-fixtures-to-todoist.git
     ```
 
 2. Navigate to the project directory:
